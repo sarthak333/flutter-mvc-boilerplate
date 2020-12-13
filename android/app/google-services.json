@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "295588348387",
+    "project_id": "thecuteapp",
+    "storage_bucket": "thecuteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295588348387:android:4b8e1ff1a562d1580960d6",
+        "android_client_info": {
+          "package_name": "love.shraddha.chauhan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295588348387-761lb6v9rigom0po9agf3riuf8tg2v73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "love.shraddha.chauhan",
+            "certificate_hash": "464333153403b8e26aab256de4f9a5d97f8b31c8"
+          }
+        },
+        {
+          "client_id": "295588348387-opacs6bkghrtknr1r1j2sal108ph450i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKpE0-tWoAbP-xCaf0JIiuAYfYWUtygIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295588348387-opacs6bkghrtknr1r1j2sal108ph450i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
